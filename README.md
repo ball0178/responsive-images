@@ -1,2 +1,0 @@
-# TestingImages
-Just a test
