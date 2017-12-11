@@ -27,7 +27,7 @@ li {
 
 img {
     width: 95%;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.35s ease-in-out;
 }
 
 img:hover {
